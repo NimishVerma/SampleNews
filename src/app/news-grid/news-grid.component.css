@@ -1,0 +1,19 @@
+
+.news-container{
+  width: 2  00px;
+  min-height: 100px;
+  max-width: 300px;
+  margin: 8px;
+  border-radius: 2px;
+ box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+  overflow: hidden;
+}
+
+.results{
+  padding: 8px;
+  margin-bottom: 12px;
+}
+md-card-title{
+    font-weight: inherit;
+    margin-bottom: 25px;
+}
